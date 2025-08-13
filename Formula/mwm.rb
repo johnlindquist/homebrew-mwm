@@ -4,9 +4,9 @@
 class Mwm < Formula
   desc "Powerful macOS command-line tool for window management"
   homepage "https://github.com/johnlindquist/mac-windows-manager"
-  url "https://github.com/johnlindquist/mac-windows-manager/releases/download/v0.4.0/mwm"
-  version "0.4.0"
-  sha256 "060364331f10128881f9e9da067f8c2137f36a69687940eb6aa399d1bfa4737d"
+  url "https://github.com/johnlindquist/mac-windows-manager/releases/download/v0.4.1/mwm"
+  version "0.4.1"
+  sha256 "6e8085a3d600c3ba98e070ba250f6db11fc9193c60c416fdd37e4a24e64860c2"
   license "MIT"
 
   def install
